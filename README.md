@@ -1,7 +1,8 @@
-# Test_case-practice-project-01
 # 📊 QA Test Summary Report – April 2025 (6 Modules)
 
-This repository contains the **QA Functional Test Summary Report** for six major modules of a web application. The testing was executed by **Sabbir Ahmed (QA Engineer)** from **25 to 28 April 2025** in a **Staging/Production environment**. The goal was to validate the system’s core features, user flows, and UI behavior through structured manual testing.
+This repository contains the **QA Functional Test Summary Report** for six major modules of a web application. 
+The testing was executed by **Sabbir Ahmed (QA Engineer)** from **25 to 28 April 2025** in a **Staging/Production environment**. 
+The goal was to validate the system’s core features, user flows, and UI behavior through structured manual testing.
 
 ---
 
@@ -34,6 +35,8 @@ All modules were tested for positive, negative, and edge-case scenarios. No crit
 
 ## 🧾 Files Included
 
+- [📄 Summary Report (Live Sheet)](https://docs.google.com/spreadsheets/d/1IWrr4AMgcLZ9vyUpSmThh-GWT9T6YImvQPO_ZY99Vas/edit?gid=2141437029#gid=2141437029)  
+- [📋 Total Test Cases (Module-wise)](https://docs.google.com/spreadsheets/d/1IWrr4AMgcLZ9vyUpSmThh-GWT9T6YImvQPO_ZY99Vas/edit?gid=0#gid=0)  
 - `Total_Summary_Report.xlsx` – Full execution summary  
 - Module-wise test case breakdown  
 - Defect severity and priority breakdown  
@@ -52,4 +55,3 @@ All modules were tested for positive, negative, and edge-case scenarios. No crit
 ---
 
 > 🛡️ This repository ensures visibility, traceability, and proper documentation of QA activities. Ideal for QA audits, stakeholder updates, and future release planning.
-
