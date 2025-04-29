@@ -35,15 +35,14 @@ All modules were tested for positive, negative, and edge-case scenarios. No crit
 
 ## 🧾 Files Included
 
-- [📄 Summary Report (Live Sheet)](https://docs.google.com/spreadsheets/d/1IWrr4AMgcLZ9vyUpSmThh-GWT9T6YImvQPO_ZY99Vas/edit?gid=2141437029#gid=2141437029)  
-- [📋 Total Test Cases (Module-wise)](https://docs.google.com/spreadsheets/d/1IWrr4AMgcLZ9vyUpSmThh-GWT9T6YImvQPO_ZY99Vas/edit?gid=0#gid=0)  
-- `Total_Summary_Report.xlsx` – Full execution summary  
+- <a href="https://docs.google.com/spreadsheets/d/1IWrr4AMgcLZ9vyUpSmThh-GWT9T6YImvQPO_ZY99Vas/edit?gid=2141437029#gid=2141437029" target="_blank">📄 Summary Report (Live Sheet)</a>  
+- <a href="https://docs.google.com/spreadsheets/d/1IWrr4AMgcLZ9vyUpSmThh-GWT9T6YImvQPO_ZY99Vas/edit?gid=0#gid=0" target="_blank">📋 Total Test Cases (Module-wise)</a>  
+- Full execution summary  
 - Module-wise test case breakdown  
 - Defect severity and priority breakdown  
 - Execution status charts (Pass/Fail/Blocked)  
 - Key observations and final recommendations  
 
----
 
 ## 🔄 Recommendations
 
