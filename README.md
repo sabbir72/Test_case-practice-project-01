@@ -21,9 +21,9 @@ The goal was to validate the system’s core features, user flows, and UI behavi
 
 | Metric                     | Value        |
 |---------------------------|--------------|
-| Total Test Cases Planned  | 35           |
+| Total Test Cases Planned  | 38           |
 | Test Cases Executed       | 35           |
-| Execution Rate            | 100%         |
+| Execution Rate            | 92.11%        |
 | Pass Rate                 | 92.11%       |
 | Test Coverage             | 92.11%       |
 | Critical Defects          | None         |
